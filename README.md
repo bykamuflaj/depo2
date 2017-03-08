@@ -1,1 +1,3 @@
 # depo2
+Merhaba;
+Bu uygulama çok ses getirecek gibi görünüyor...
